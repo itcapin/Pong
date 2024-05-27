@@ -1,4 +1,4 @@
-git clone the repository
+``` git clone ```
 create python virtual environment (if you want)
 pip install -r requirements.txt
 python Pong.py
