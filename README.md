@@ -1,5 +1,4 @@
-``` git clone ```
-create python virtual environment (if you want)
-pip install -r requirements.txt
-python Pong.py
-enjoy!
+``` git clone https://github.com/itcapin/Pong ``` <br>
+create python virtual environment (if you want) <br>
+```pip install -r requirements.txt``` <br>
+```python Pong.py``` <br>
