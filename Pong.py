@@ -58,7 +58,7 @@ def start_game(player_name, cpu_name, cpu_speed, cpu_difficulty):
 def show_title_screen():
     screen.bgcolor("green")
     screen.bgpic('./Images/Ivy Pixel.png')
-    play_background_music()
+    # play_background_music()
 
     title = Turtle()
     title.hideturtle()
